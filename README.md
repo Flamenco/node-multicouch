@@ -35,7 +35,7 @@ From Node:
     var my_couch = new MultiCouch({
       port: 8080,
       prefix: "/tmp"
-      // view_dir: "/tmp", // same as db_dir when ommitted
+      // view_dir: "/tmp", // same as db_dir when omitted
       // log_file: "/tmp/couch.log",
       // uri_file: "/tmp/couch.uri",
       // couchdb_path: "/opt/local/bin/couchdb"
